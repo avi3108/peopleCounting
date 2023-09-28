@@ -1,0 +1,6 @@
+Python 3
+OpenCV
+NumPy
+Pandas
+Ultralytics
+Tracker
